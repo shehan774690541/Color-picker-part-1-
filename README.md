@@ -1,4 +1,4 @@
-# Color-picker-part-1-
+# Color picker (part-1)
 buttons using creaate color code
 
 
