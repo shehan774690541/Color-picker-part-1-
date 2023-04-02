@@ -8,3 +8,5 @@ HTML was created using CSS and JavaScript
 
 
 <a href="https://www.youtube.com/watch?v=7KO2E2tigZI&t=171s"> watch on youtube </a>
+
+<img src="colorPicker1.png" width="100%">
